@@ -17,3 +17,8 @@ https://www.blazemeter.com/blog/how-to-integrate-your-github-repository-to-your-
 以下のページを参考にすれば設定できた
 
 https://qiita.com/haruto830/items/7a9798a57d9b2471a15c
+
+
+## githubとdockerhubの連携
+
+https://docs.docker.com/docker-hub/builds/
